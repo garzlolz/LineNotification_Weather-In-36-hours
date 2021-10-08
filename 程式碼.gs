@@ -1,4 +1,4 @@
-var lineToken = 'GD8tbSQTea4KyN78ZBtxbIGja5RByNsmnkwSxlfTcVg';        //Line Token
+var lineToken = 'Your Line Token';        //Line Token
 function WheatherReport(){                                            //Json
   var response = UrlFetchApp.fetch('https://opendata.cwb.gov.tw/fileapi/v1/opendataapi/F-C0032-001?Authorization=CWB-6308B6CA-3EB6-45BC-A030-4FAF2F582E05&downloadType=WEB&format=JSON');
 
